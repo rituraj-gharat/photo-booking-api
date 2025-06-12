@@ -84,10 +84,21 @@ Open browser at: http://localhost:5050
 ```
 
 🌐 Live Demo
-Comming Soon - Stay Tuned
 
+https://photo-booking-api-gls8.vercel.app/
 <!---Frontend: https://photo-booking-api.vercel.app
 Backend: (Coming soon via Render/Railway) --->
+
+📸 Screenshots
+
+<img width="1015" alt="Screenshot 2025-06-12 at 5 03 42 AM" src="https://github.com/user-attachments/assets/22ae0309-d2aa-4c2e-baa6-f969608e0b2c" />
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+
+<img width="1020" alt="Screenshot 2025-06-12 at 5 04 48 AM" src="https://github.com/user-attachments/assets/cd6b6990-b8d9-4665-81a8-1b44a3d15862" />
+
+
+
 
 ✨ Credits
 
